@@ -1,0 +1,1 @@
+This project is a simple network program developed in java syntax, That provides the client the ability to create and manage restaurant menus,via checking with the server, with a database (in our case, CSV file).
